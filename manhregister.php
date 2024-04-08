@@ -130,11 +130,11 @@
          <div class="form-group mb-3"><input type="text" class="form-control" placeholder="Địa chỉ" id="Address" name="Address"></div>
     <div class="row">
     <div class="col-md-6">
-        <label class="field__label" for="Password"> Mật khẩu: </label>
+        <label class="field__label" for="Password"> *Mật khẩu: </label>
         <div class="form-group mb-3"><input id="password-field" name="password-field" type="password" class="form-control" placeholder="Mật khẩu"></div>
     </div>
     <div class="col-md-6">
-        <label class="field__label" for="ConfirmPassword"> Nhập lại mật khẩu: </label>
+        <label class="field__label" for="ConfirmPassword"> *Nhập lại mật khẩu: </label>
         <div class="form-group mb-3"><input id="password-field1" name="password-field1" type="password" class="form-control password-field1" placeholder="Nhập lại mật khẩu"></div>
     </div>
 </div>
